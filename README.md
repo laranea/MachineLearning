@@ -1,2 +1,0 @@
-# MachineLearningScripts
-Machine Learning Projects 
